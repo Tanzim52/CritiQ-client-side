@@ -5,10 +5,13 @@ const Footer = () => {
     return (
         <footer className="bg-[#3D405B] text-[#F7F6EE] py-10">
             <div className="container mx-auto px-6 lg:px-20 grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
-                
+
                 {/* Column 1: About Section */}
                 <div>
-                    <h2 className="text-2xl font-bold mb-4">CritiQ</h2>
+                    <h2 className="text-3xl font-bold mb-4 flex items-center justify-center md:justify-start gap-2">
+                        <img className='w-16 h-16' src="https://i.ibb.co.com/X2VVNQw/CritiQ.png" alt="" />
+                        CritiQ
+                    </h2>
                     <p className="text-sm">
                         CritiQ is your one-stop platform for sharing and exploring insightful reviews on services across various domains.
                     </p>
