@@ -24,7 +24,19 @@ CritiQ is a **Service Review Application System** that allows users to explore, 
 - **Database:** MongoDB
 - **Authentication:** Firebase, JWT
 
-
+## 🚀 Getting Started
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/your-username/CritiQ-client-side.git
+cd Critiq-client-side
+```
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
+### 3️⃣ Run the Application
+```sh
+npm run dev
 
 ## 📜 API Routes
 | Method | Endpoint | Description |
