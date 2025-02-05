@@ -29,20 +29,7 @@ CritiQ is a **Service Review Application System** that allows users to explore, 
 |-----------|------------|
 | ![Homepage](https://via.placeholder.com/600x300) | ![Review Page](https://via.placeholder.com/600x300) |
 
-## 🚀 Getting Started
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/your-username/critiq.git
-cd critiq
-```
-### 2️⃣ Install Dependencies
-```sh
-npm install
-```
-### 3️⃣ Run the Application
-```sh
-npm start
-```
+
 
 ## 📜 API Routes
 | Method | Endpoint | Description |
@@ -56,8 +43,8 @@ npm start
 Contributions are welcome! Feel free to fork the repo and submit a PR.
 
 ## 📧 Contact
-📩 Email: your-email@example.com  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+📩 Email: mahin1575@gmail.com  
+🐦 Twitter: https://x.com/mjTanzim
 
 ## ⭐ Show Your Support
 If you like this project, give it a ⭐ and share it with others!
