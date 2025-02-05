@@ -45,4 +45,4 @@ Contributions are welcome! Feel free to fork the repo and submit a PR.
 If you like this project, give it a ⭐ and share it with others!
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Tanzim
