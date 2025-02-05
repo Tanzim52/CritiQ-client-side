@@ -24,11 +24,6 @@ CritiQ is a **Service Review Application System** that allows users to explore, 
 - **Database:** MongoDB
 - **Authentication:** Firebase, JWT
 
-## 📸 Screenshots
-| Homepage  | Review Page |
-|-----------|------------|
-| ![Homepage](https://via.placeholder.com/600x300) | ![Review Page](https://via.placeholder.com/600x300) |
-
 
 
 ## 📜 API Routes
