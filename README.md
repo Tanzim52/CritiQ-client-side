@@ -1,6 +1,6 @@
 # CritiQ - Service Review Application System
 
-https://i.ibb.co.com/PsJhxFkj/cq.png
+![CritiQ Banner](https://i.ibb.co.com/PsJhxFkj/cq.png)
 
 ## 🚀 About the Project
 CritiQ is a **Service Review Application System** that allows users to explore, review, and manage services efficiently. This platform ensures transparency and trust by enabling authenticated users to share their experiences and feedback.
