@@ -37,7 +37,7 @@ npm install
 ### 3️⃣ Run the Application
 ```sh
 npm run dev
-
+```
 ## 📜 API Routes
 | Method | Endpoint | Description |
 |--------|---------|-------------|
